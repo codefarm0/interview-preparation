@@ -12,7 +12,7 @@ Here’s a comprehensive list of database interview questions tailored for someo
 7. **Explain ACID properties in a database.**
 8. **What are indexes, and why are they important?**
 9. **What is a join? Explain different types of joins.**
-10. **What are the differences between SQL and NoSQL databases?**
+10. [**What are the differences between SQL and NoSQL databases?**](https://youtu.be/lv28lWrt_B4)
 11. **What is a view in SQL? How does it differ from a table?**
 12. **Explain the concept of transactions in a database.**
 

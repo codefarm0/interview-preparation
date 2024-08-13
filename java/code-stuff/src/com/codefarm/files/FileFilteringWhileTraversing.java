@@ -1,7 +1,6 @@
-package com.greenlearner.files;
+package com.codefarm.files;
 
 import java.io.File;
-import java.util.Arrays;
 
 /**
  * @author - GreenLearner(https://www.youtube.com/c/greenlearner)

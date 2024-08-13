@@ -1,8 +1,6 @@
-package com.greenlearner.test;
+package com.codefarm.test;
 
 import java.io.File;
-import java.io.FileFilter;
-import java.io.FilenameFilter;
 import java.util.Arrays;
 
 /**

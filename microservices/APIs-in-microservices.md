@@ -8,6 +8,7 @@ Here are some insightful API-focused interview questions for microservices:
    - **What is an endpoint, and how does it relate to API functionality in microservices?**
    - **How does idempotency affect API design in microservices? Provide examples of idempotent operations.**
    - **What are HTTP methods, and which ones are typically used for CRUD operations in REST APIs?**
+   - **What are HTTP Status codes and their significance?**
    - **Scenario** : You’re working on a project that needs to integrate with an external payment API, but the API documentation is unclear. How would you approach understanding the API’s functionality and integrating it effectively?
 
 ### **Designing APIs for Microservices**

@@ -12,12 +12,23 @@ Whether you're gearing up for your first interview or sharpening your skills for
 
 Explore the sections below to dive into specific topics:
 
-- [Algorithms](./algorithms): Practice and learn fundamental and advanced algorithms with examples.
-- [Data Structures](./data-structures): Master essential data structures and understand their real-world applications.
-- [System Design](./system-design): Learn system design concepts and best practices for scalable architectures.
-- [Coding Challenges](./coding-challenges): Solve real-world coding problems to enhance your problem-solving skills.
-- [Interview Questions](./interview-questions): Review a curated list of common and advanced interview questions.
-
+- [Data Structure](./Data%20Structure): Learn the fundamentals and advanced concepts of data structures with examples and explanations.
+- [Microservices](./Microservices): Discover best practices, patterns, and concepts for building scalable microservices architecture.
+- [System Design](./System%20Design): Master the art of designing large-scale, distributed systems with real-world scenarios.
+- [Java](./Java): A collection of Java-related concepts, tips, and interview preparation material.
+- [Spring Boot](./Spring%20Boot): Dive into Spring Boot essentials for developing robust and efficient backend applications.
+- [Spring Security](./Spring%20Security): Understand authentication, authorization, and security best practices in Spring applications.
+- [Database](./Database): Explore database concepts, including:
+  - [SQL](./Database/SQL): Dive into relational database management systems and advanced queries.
+  - [NoSQL](./Database/NoSQL): Learn about NoSQL databases and their use cases in modern applications.
+  - [Hibernate](./Database/Hibernate): Learn Hibernate ORM for efficient database interactions and mastering advanced mapping techniques.
+- [Kafka](./Kafka): Get hands-on with Apache Kafka, including producers, consumers, and real-time streaming.
+- [CICD](./CICD): Learn the principles and tools for automating build, test, and deployment pipelines.
+- [Git Version Control Concepts](./Git%20Version%20Control%20Concepts): Explore Git basics, branching, merging, and advanced version control techniques.
+- [Engineering Papers](./Engineering%20Papers): Access technical papers and whitepapers to deepen your engineering knowledge.
+- [Java-Backend-Developer-Mock-Interviews](./Java-Backend-Developer-Mock-Interviews): Prepare for backend developer roles with mock interview questions and scenarios.
+- [Engg tech blogs](./Engg%20tech%20blogs): Read insightful blogs on engineering and software development trends.
+- [Generative AI](./Generative%20AI): Explore the world of generative AI with tutorials, use cases, and practical examples.
 ---
 
 ## 💡 How to Use This Repository
